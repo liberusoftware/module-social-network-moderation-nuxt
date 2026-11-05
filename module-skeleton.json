@@ -1,0 +1,15 @@
+{
+  "repository": "module-social-network-moderation-nuxt",
+  "capabilityKey": "liberusoftware/module-social-network-moderation",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-social-network-moderation-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/social-network/nextjs/moderation.md",
+  "presentationPlan": "projects/social-network/nuxt/moderation.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "social-network"
+  ]
+}
